@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\10-calificaciones-y-mostrar-las-que-sean-mayores-a-6\proyecto10.3\proyecto10.3\bin\Debug\proyecto10.3.exe.config
+D:\Programas\Cursos\C# ya\10-calificaciones-y-mostrar-las-que-sean-mayores-a-6\proyecto10.3\proyecto10.3\bin\Debug\proyecto10.3.exe
+D:\Programas\Cursos\C# ya\10-calificaciones-y-mostrar-las-que-sean-mayores-a-6\proyecto10.3\proyecto10.3\bin\Debug\proyecto10.3.pdb
+D:\Programas\Cursos\C# ya\10-calificaciones-y-mostrar-las-que-sean-mayores-a-6\proyecto10.3\proyecto10.3\obj\Debug\proyecto10.3.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\10-calificaciones-y-mostrar-las-que-sean-mayores-a-6\proyecto10.3\proyecto10.3\obj\Debug\proyecto10.3.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\10-calificaciones-y-mostrar-las-que-sean-mayores-a-6\proyecto10.3\proyecto10.3\obj\Debug\proyecto10.3.exe
+D:\Programas\Cursos\C# ya\10-calificaciones-y-mostrar-las-que-sean-mayores-a-6\proyecto10.3\proyecto10.3\obj\Debug\proyecto10.3.pdb
